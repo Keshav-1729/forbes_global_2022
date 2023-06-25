@@ -7,7 +7,6 @@ st.set_page_config(page_title="Homepage",page_icon=":bar_chart:",layout="wide")
 
 hide_menu_style='''
 <style>
-#MainMenu {visibility:hidden;}
 footer {visibility: hidden;}
 </style>
 '''
