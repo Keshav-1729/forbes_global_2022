@@ -174,4 +174,4 @@ with c2:
     st.write("##")
     st.header("This marks the end of this project🌸")
     st.markdown("### Hope you liked it")
-    st.title("THANK  YOU💖")
+    st.title("THANK  YOU!")
